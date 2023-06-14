@@ -49,5 +49,5 @@ Able to handle a throughput of more than 20 QPS in JMeter testing.
 
 ## Others
 Unit test in handler_test.go will not work as intended due to the new requirement of Redis.  
-I am not familiar with mocking in Golang and haven't been able to implement it properly in time.
+I am not familiar with mocking in Golang and haven't been able to implement it properly in time.  
 Not able to implement Kubernetes for better scaling capabilities in time either.
